@@ -1,4 +1,3 @@
-# LiFi-Communication-System
 # Li-Fi Communication System 🚀  
 
 ## 📖 Overview  
